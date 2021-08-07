@@ -1,2 +1,2 @@
-# sscars
-A Website that defines Brand new cars rent with prices
+# SS-CARS
+ Created a static website using HTML, JAVASCRIPT, CSS, BOOTSTRAP
